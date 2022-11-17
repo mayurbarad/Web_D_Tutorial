@@ -1,0 +1,19 @@
+/* ______________________TAG SELECTOR_____________________ */
+h1 {
+  color: aqua;
+}
+
+/* _______________________CLASS SELECTOR ________________________ 
+
+image :hover {
+  background-color: gold;
+}
+*/
+/* ________________________CLASS SELECTOR________________________ */
+
+.bacoon {
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
